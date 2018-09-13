@@ -1,7 +1,7 @@
 {
   "name": "goteem-bot",
   "version": "1.0.1",
-  description": "fixed crashing error (hopefully)",
+  "description": "fixed crashing error (hopefully)",
   "main": "bot.js",
   "scripts": {
     "test": " "
